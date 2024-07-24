@@ -1,4 +1,4 @@
 # firstrepo
 test repo
 <br>
-Author - Nitish Agarwal
+Author - Nitish Kumar Agarwal
